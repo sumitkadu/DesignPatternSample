@@ -1,0 +1,6 @@
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Sumit\Study\NetPractice2\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb

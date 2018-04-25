@@ -1,0 +1,6 @@
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Sumit\Study\NetPractice2\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
