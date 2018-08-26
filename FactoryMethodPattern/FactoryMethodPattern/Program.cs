@@ -10,10 +10,15 @@ namespace FactoryMethodPattern
     {
         static void Main(string[] args)
         {
-            SimplePizzaFactory factory = new SimplePizzaFactory();
-            PizzaStore store = new PizzaStore(factory);
+            //*** Simple factory method pattern
+            //SimplePizzaFactory factory = new SimplePizzaFactory();
 
-            store.OrderPizza("Cheese");
+            // Factory Method Pattern
+            PizzaStore nyPizzaStore = new NYStylePizzaStore();
+            nyPizzaStore.OrderPizza("Cheese");
+
+            //PizzaStore chicagoPizzaStore = new ChicagoStylePizzaStore();
+            //chicagoPizzaStore.OrderPizza("Cheese");
 
             Console.ReadKey();
         }
